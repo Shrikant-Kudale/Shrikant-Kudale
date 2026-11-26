@@ -1,32 +1,100 @@
-<h1 align="center">Hi 👋, I'm Shrikant Subhash Kudale</h1>
-<h3 align="center">AWS Certified Machine Learning Engineer Associate | Edge-AI & Analytics | Computer Vision Researcher | Published Author & 2x Hackathon Winner</h3>
+<a name="top"></a>
 
-- 🔭 I’m currently working on [Offline Multimodal Personal Assistant on NVIDIA Jetson Orin Nano](https://github.com/Shrikant-Kudale/Privacy_First_Multimodal_Edge_AI_Assistant_Local-LLMs_RAG_On_NVIDIA_Jetson_Orin_Nano)
-
-- 🌱 I’m currently **diving deep into production-grade AWS Cloud Deployment & MLOps pipelines (building on my AWS Certified Machine Learning Engineer – Associate credential), Selective State Space Models (Mamba/S6) for linear-time sequence modeling, Agentic AI orchestration with LangGraph, Multimodal RAG architectures, and Hardware-Aware Model Quantization (TensorRT / ONNX) for edge GPUs.**
-
-- 👯 I’m looking to collaborate on [Blind Assist Companion](https://github.com/Shrikant-Kudale/CRiEYA-Blind-Assist-Companion/blob/main/README.md)
-
-- 🤝 I’m looking for help with [Twin Trace](https://github.com/Shrikant-Kudale/Twin_Trace)
-
-- 👨‍💻 All of my projects are available at [https://shrikantkudale.is-a.dev/](https://shrikantkudale.is-a.dev/)
-
-- 💬 Ask me anything **about Core AI & Deep Learning architectures (Transformers, Vision-Language Models, CNNs, U-Net, Mask R-CNN), End-to-End Machine Learning & Predictive Analytics, Real-Time Computer Vision (YOLOv8 / YOLO11 / OpenCV), Edge-AI Deployment on Jetson & Raspberry Pi, EEG Signal Processing & Neuro-Cognitive AI, and Full-Stack GenAI Engineering.**
-
-- 📫 How to reach me **shrikant.kudale05@gmail.com**
-
-- 📄 Know about my experiences [abc.com](abc.com)
-
-- ⚡ Fun fact **Alongside engineering neural networks and edge-AI hardware, I am also pursuing a parallel Bachelor's degree in Psychology—I genuinely love understanding human behavior, decoding cognitive patterns, and having deep, meaningful conversations with people!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shrikant-kudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrikant-kudale" height="30" width="40" /></a>
-<a href="https://kaggle.com/shrikantkudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrikantkudale" height="30" width="40" /></a>
-<a href="https://instagram.com/1.0_pixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1.0_pixel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@lifee_with_shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifee_with_shree" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Shrikant_Kudale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrikant-kudale" height="30" width="40" /></a>
+<p align="center">
+  <img src="./profile/hero.svg" width="100%" alt="Hi, I'm Shrikant Subhash Kudale. AWS Certified Machine Learning Engineer Associate, Edge-AI and Analytics, Computer Vision Researcher, Published Author, 2x Hackathon Winner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://shrikantkudale.is-a.dev/"><img src="./profile/btn-portfolio.svg" height="38" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shrikant-kudale"><img src="./profile/btn-linkedin.svg" height="38" alt="LinkedIn" /></a>
+  <a href="mailto:shrikant.kudale05@gmail.com"><img src="./profile/btn-email.svg" height="38" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> &nbsp;◆&nbsp;
+  <a href="#projects">Projects</a> &nbsp;◆&nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp;◆&nbsp;
+  <a href="#analytics">Analytics</a> &nbsp;◆&nbsp;
+  <a href="#connect">Connect</a>
+</p>
+
+<a name="about"></a>
+<p align="center"><img src="./profile/section-about.svg" width="100%" alt="About Me" /></p>
+
+I build AI that runs close to the real world: **edge devices, computer vision, and full-stack GenAI**.
+
+- 🔭 **Currently working on:** [Offline Multimodal Personal Assistant on NVIDIA Jetson Orin Nano](https://github.com/Shrikant-Kudale/Privacy_First_Multimodal_Edge_AI_Assistant_Local-LLMs_RAG_On_NVIDIA_Jetson_Orin_Nano)
+- 👯 **Looking to collaborate on:** [Blind Assist Companion](https://github.com/Shrikant-Kudale/CRiEYA-Blind-Assist-Companion/blob/main/README.md)
+- 🤝 **Looking for help with:** [Twin Trace](https://github.com/Shrikant-Kudale/Twin_Trace)
+- 👨‍💻 **All my projects:** [shrikantkudale.is-a.dev](https://shrikantkudale.is-a.dev/)
+- 📄 **Experience:** [Look at my resume](abc.com)
+- 📫 **Reach me:** [shrikant.kudale05@gmail.com](mailto:shrikant.kudale05@gmail.com)
+
+### 🌱 Diving deep into
+
+| Area | Focus |
+| :--- | :--- |
+| ☁️ **Cloud & MLOps** | Production-grade AWS deployment and MLOps pipelines, building on my AWS Certified Machine Learning Engineer – Associate credential |
+| 🧬 **Sequence Modeling** | Selective State Space Models (Mamba/S6) for linear-time sequence modeling |
+| 🤖 **Agentic AI** | Agent orchestration with LangGraph |
+| 🔎 **Retrieval** | Multimodal RAG architectures |
+| ⚡ **Edge Optimization** | Hardware-aware model quantization (TensorRT / ONNX) for edge GPUs |
+
+### 💬 Ask me about
+
+- **Core AI & Deep Learning:** Transformers, Vision-Language Models, CNNs, U-Net, Mask R-CNN
+- **Machine Learning:** End-to-end ML and predictive analytics
+- **Real-Time Computer Vision:** YOLOv8 / YOLO11 / OpenCV
+- **Edge AI:** Deployment on Jetson and Raspberry Pi
+- **Neuro-AI:** EEG signal processing and neuro-cognitive AI
+- **GenAI:** Full-stack GenAI engineering
+
+> ⚡ **Fun fact:** Alongside engineering neural networks and edge-AI hardware, I am also pursuing a parallel **Bachelor's degree in Psychology**. I genuinely love understanding human behavior, decoding cognitive patterns, and having deep, meaningful conversations with people!
+
+<a name="projects"></a>
+<p align="center"><img src="./profile/section-projects.svg" width="100%" alt="Featured Projects" /></p>
+
+<p align="center">
+  <a href="https://github.com/Shrikant-Kudale/Privacy_First_Multimodal_Edge_AI_Assistant_Local-LLMs_RAG_On_NVIDIA_Jetson_Orin_Nano"><img src="./profile/project-edge-ai.svg" width="100%" alt="Privacy-First Edge AI Assistant: offline multimodal assistant with local LLMs and RAG on NVIDIA Jetson Orin Nano" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shrikant-Kudale/CRiEYA-Blind-Assist-Companion"><img src="./profile/project-blind-assist.svg" width="100%" alt="Blind Assist Companion: Gen-AI assistive system for visually impaired people" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shrikant-Kudale/Neuro-AI"><img src="./profile/project-neuro-ai.svg" width="100%" alt="NeuroPAC: research on EEG phase-amplitude coupling and early brain tumor signals" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shrikant-Kudale/Twin_Trace"><img src="./profile/project-twin-trace.svg" width="100%" alt="Twin Trace: help wanted" /></a>
+</p>
+
+<a name="toolbox"></a>
+<p align="center"><img src="./profile/section-toolbox.svg" width="100%" alt="Languages and Tools" /></p>
+
+<p align="center">
+  <img src="./profile/toolbox.svg" width="100%" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, TensorRT, ONNX, LangGraph, Pandas, Seaborn, MATLAB, AWS, Docker, Kubernetes, Kafka, Hadoop, Linux, Git, Selenium, JavaScript, TypeScript, HTML5, CSS3, React, React Native, Next.js, Angular, AngularJS, Vue.js, Node.js, Flutter, Kotlin, Chart.js, Java, C++, Spring, Django, Flask, GraphQL, PostgreSQL, MySQL, MongoDB, SQLite, CockroachDB, NVIDIA Jetson, Raspberry Pi, Arduino, Figma, Blender, Photoshop, Illustrator" />
+</p>
+
+<a name="analytics"></a>
+<p align="center"><img src="./profile/section-analytics.svg" width="100%" alt="GitHub Analytics" /></p>
+
+<p align="center"><img src="./profile/stats.svg" width="100%" alt="GitHub overview: public repos, stars earned, commits, pull requests, issues, followers" /></p>
+<p align="center"><img src="./profile/streak.svg" width="100%" alt="Contribution streak: total, current and longest" /></p>
+<p align="center"><img src="./profile/activity.svg" width="100%" alt="Contribution activity graph for the last 31 days" /></p>
+<p align="center"><img src="./profile/commits.svg" width="100%" alt="Commit graph: contribution calendar and commits per month" /></p>
+<p align="center"><img src="./profile/languages.svg" width="100%" alt="Most used languages" /></p>
+
+<a name="connect"></a>
+<p align="center"><img src="./profile/section-connect.svg" width="100%" alt="Let's Connect" /></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shrikant-kudale"><img src="./profile/btn-linkedin.svg" height="38" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/shrikantkudale"><img src="./profile/btn-kaggle.svg" height="38" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/Shrikant_Kudale/"><img src="./profile/btn-leetcode.svg" height="38" alt="LeetCode" /></a>
+  <a href="https://www.youtube.com/@lifee_with_shree"><img src="./profile/btn-youtube.svg" height="38" alt="YouTube" /></a>
+  <a href="https://instagram.com/1.0_pixel"><img src="./profile/btn-instagram.svg" height="38" alt="Instagram" /></a>
+  <a href="mailto:shrikant.kudale05@gmail.com"><img src="./profile/btn-email.svg" height="38" alt="Email" /></a>
+</p>
+
+<p align="center"><img src="./profile/footer.svg" width="100%" alt="Thanks for visiting. Let's build something meaningful." /></p>
+
+<p align="center"><a href="#top">↑ Back to top</a></p>
