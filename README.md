@@ -142,7 +142,7 @@ A project I am looking for help with. Contributions are welcome!
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShrikant-Kudale&query=%24.public_repos&label=Total%20Repos&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=16122E" alt="Total public repositories" />
+  <img src="https://img.shields.io/badge/Total%20Repos-24-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=16122E" alt="Total public repositories" />
 </p>
 
 ### 📈 GitHub Stats
