@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8B5CF6,100:22D3EE&height=230&section=header&text=Shrikant%20Subhash%20Kudale&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20Certified%20Machine%20Learning%20Engineer%20%E2%80%93%20Associate&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Shrikant Subhash Kudale, AWS Certified Machine Learning Engineer Associate" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shrikant Subhash Kudale</h1>
 <h3 align="center">AWS Certified Machine Learning Engineer Associate | Edge-AI & Analytics | Computer Vision Researcher | Published Author & 2x Hackathon Winner</h3>
 
 <p align="center">
@@ -54,54 +53,58 @@
 ### 1️⃣ Privacy-First Multimodal Edge AI Assistant
 An offline multimodal personal assistant using local LLMs and RAG on the NVIDIA Jetson Orin Nano.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=Local-first+AI+assistant+built+on+a+Jetson+Orin+Nano+%288GB%29.;Live+CSI+camera+vision+runs+on+Argus+and+GStreamer+with+OpenCV.;Local+LLMs%2C+RAG+and+agent+workflows+are+being+integrated+on-device.;Designed+so+camera+data+and+prompts+stay+private+on+the+edge." alt="Local-first AI assistant built on a Jetson Orin Nano (8GB). Live CSI camera vision runs on Argus and GStreamer with OpenCV. Local LLMs, RAG and agent workflows are being integrated on-device. Designed so camera data and prompts stay private on the edge." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shrikant-Kudale/Privacy_First_Multimodal_Edge_AI_Assistant_Local-LLMs_RAG_On_NVIDIA_Jetson_Orin_Nano">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shrikant-Kudale&repo=Privacy_First_Multimodal_Edge_AI_Assistant_Local-LLMs_RAG_On_NVIDIA_Jetson_Orin_Nano&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F&border_radius=16" width="70%" alt="Privacy-First Edge AI Assistant repository" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <h3>📦 <a href="https://github.com/Shrikant-Kudale/Privacy_First_Multimodal_Edge_AI_Assistant_Local-LLMs_RAG_On_NVIDIA_Jetson_Orin_Nano">Privacy-First-Multimodal-Edge-AI-Assistant</a></h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=Local-first+AI+assistant+built+on+a+Jetson+Orin+Nano+%288GB%29.;Live+CSI+camera+vision+runs+on+Argus+and+GStreamer+with+OpenCV.;Local+LLMs%2C+RAG+and+agent+workflows+are+being+integrated+on-device.;Designed+so+camera+data+and+prompts+stay+private+on+the+edge." alt="Local-first AI assistant built on a Jetson Orin Nano (8GB). Live CSI camera vision runs on Argus and GStreamer with OpenCV. Local LLMs, RAG and agent workflows are being integrated on-device. Designed so camera data and prompts stay private on the edge." />
+      <br />
+      <img src="https://img.shields.io/badge/NVIDIA_Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson Orin Nano" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Edge_AI-6366F1?style=flat-square" alt="Edge AI" />
+    </td>
+  </tr>
+</table>
 
 ### 2️⃣ Blind Assist Companion
 A Gen-AI assistive system combining mobile and edge computing to support visually impaired people.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=Assistive+companion+that+turns+the+visual+world+into+spoken+guidance.;A+Raspberry+Pi+Zero+2+W+with+camera+and+ToF+sensor+talks+to+a+Kotlin+app+over+BLE.;Gemini+describes+scenes+in+about+1.2+seconds+and+faces+are+matched+offline.;A+one-tap+SOS+shares+live+GPS+and+alerts+emergency+contacts." alt="Assistive companion that turns the visual world into spoken guidance. A Raspberry Pi Zero 2 W with camera and ToF sensor talks to a Kotlin app over BLE. Gemini describes scenes in about 1.2 seconds and faces are matched offline. A one-tap SOS shares live GPS and alerts emergency contacts." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shrikant-Kudale/CRiEYA-Blind-Assist-Companion">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shrikant-Kudale&repo=CRiEYA-Blind-Assist-Companion&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F&border_radius=16" width="70%" alt="Blind Assist Companion repository" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <h3>📦 <a href="https://github.com/Shrikant-Kudale/CRiEYA-Blind-Assist-Companion">CRiEYA-Blind-Assist-Companion</a></h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=Assistive+companion+that+turns+the+visual+world+into+spoken+guidance.;A+Raspberry+Pi+Zero+2+W+with+camera+and+ToF+sensor+talks+to+a+Kotlin+app+over+BLE.;Gemini+describes+scenes+in+about+1.2+seconds+and+faces+are+matched+offline.;A+one-tap+SOS+shares+live+GPS+and+alerts+emergency+contacts." alt="Assistive companion that turns the visual world into spoken guidance. A Raspberry Pi Zero 2 W with camera and ToF sensor talks to a Kotlin app over BLE. Gemini describes scenes in about 1.2 seconds and faces are matched offline. A one-tap SOS shares live GPS and alerts emergency contacts." />
+      <br />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/BLE-6366F1?style=flat-square" alt="BLE" />
+    </td>
+  </tr>
+</table>
 
 ### 3️⃣ NeuroPAC (Neuro-AI)
 Research on EEG phase-amplitude coupling shifts, exploring early signals of brain tumors with AI.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=EEG+workbench+studying+theta-gamma+coupling+as+an+early+tumour+signal.;Includes+a+ground-truth+simulator%2C+a+coupling+pipeline+for+real+EDF+and+CSV+files%2C;and+an+explainable+Transformer+classifier+that+runs+in+the+browser.;Research+use+only%2C+with+results+reported+on+simulated+data." alt="EEG workbench studying theta-gamma coupling as an early tumour signal. Includes a ground-truth simulator, a coupling pipeline for real EDF and CSV files, and an explainable Transformer classifier that runs in the browser. Research use only, with results reported on simulated data." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shrikant-Kudale/Neuro-AI">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shrikant-Kudale&repo=Neuro-AI&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F&border_radius=16" width="70%" alt="Neuro-AI repository" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <h3>📦 <a href="https://github.com/Shrikant-Kudale/Neuro-AI">Neuro-AI (NeuroPAC)</a></h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=EEG+workbench+studying+theta-gamma+coupling+as+an+early+tumour+signal.;Includes+a+ground-truth+simulator%2C+a+coupling+pipeline+for+real+EDF+and+CSV+files%2C;and+an+explainable+Transformer+classifier+that+runs+in+the+browser.;Research+use+only%2C+with+results+reported+on+simulated+data." alt="EEG workbench studying theta-gamma coupling as an early tumour signal. Includes a ground-truth simulator, a coupling pipeline for real EDF and CSV files, and an explainable Transformer classifier that runs in the browser. Research use only, with results reported on simulated data." />
+      <br />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/EEG-a8690f?style=flat-square" alt="EEG" />
+    </td>
+  </tr>
+</table>
 
 ### 4️⃣ Twin Trace
 A project I am looking for help with. Contributions are welcome!
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=Cleans+messy+product+catalogues+where+one+item+hides+under+many+names.;Blocking+and+fuzzy+matching+with+a+genetic+algorithm+that+learns+the+rules.;Reports+duplicate+rate+and+price+spread%2C+benchmarked+against+exact-text+matching.;Doubtful+pairs+go+to+a+zero-cost+LLM+fallback+chain." alt="Cleans messy product catalogues where one item hides under many names. Blocking and fuzzy matching with a genetic algorithm that learns the rules. Reports duplicate rate and price spread, benchmarked against exact-text matching. Doubtful pairs go to a zero-cost LLM fallback chain." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shrikant-Kudale/Twin_Trace">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shrikant-Kudale&repo=Twin_Trace&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F&border_radius=16" width="70%" alt="Twin Trace repository" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <h3>📦 <a href="https://github.com/Shrikant-Kudale/Twin_Trace">Twin_Trace</a></h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=400&color=C4B5FD&width=820&height=110&vCenter=false&multiline=true&repeat=false&lines=Cleans+messy+product+catalogues+where+one+item+hides+under+many+names.;Blocking+and+fuzzy+matching+with+a+genetic+algorithm+that+learns+the+rules.;Reports+duplicate+rate+and+price+spread%2C+benchmarked+against+exact-text+matching.;Doubtful+pairs+go+to+a+zero-cost+LLM+fallback+chain." alt="Cleans messy product catalogues where one item hides under many names. Blocking and fuzzy matching with a genetic algorithm that learns the rules. Reports duplicate rate and price spread, benchmarked against exact-text matching. Doubtful pairs go to a zero-cost LLM fallback chain." />
+      <br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+    </td>
+  </tr>
+</table>
 
 ---
 
