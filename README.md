@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8B5CF6,100:22D3EE&height=230&section=header&text=Shrikant%20Subhash%20Kudale&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20Certified%20Machine%20Learning%20Engineer%20%E2%80%93%20Associate&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Shrikant Subhash Kudale, AWS Certified Machine Learning Engineer Associate" />
 </p>
 
-<h3 align="center">AWS Certified Machine Learning Engineer Associate | Edge-AI & Analytics | Computer Vision Researcher | Published Author & 2x Hackathon Winner</h3>
+<h3 align="center">
+  AWS Certified Machine Learning Engineer Associate | Edge-AI & Analytics<br>
+  Computer Vision Researcher | Published Author & 2x Hackathon Winner
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=45&lines=Edge-AI+%26+Analytics;Agentic+AI+Engineer;Computer+Vision+Researcher;Multimodal+RAG+%26+LLM+Systems;Neuro-AI+%26+EEG+Researcher;MLOps+on+AWS;Hardware-Aware+Model+Quantization;Psychology+x+Artificial+Intelligence;Published+Author;2x+Hackathon+Winner" alt="Edge-AI and Analytics, Agentic AI Engineer, Computer Vision Researcher, Multimodal RAG and LLM Systems, Neuro-AI and EEG Researcher, MLOps on AWS, Hardware-Aware Model Quantization, Psychology x AI, Published Author, 2x Hackathon Winner" />
