@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/shrikant-kudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrikant-kudale" height="30" width="40" /></a>
 <a href="https://kaggle.com/shrikantkudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrikantkudale" height="30" width="40" /></a>
 <a href="https://instagram.com/1.0_pixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1.0_pixel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lifee_with_shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifee_with_shree" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shrikant-kudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrikant-kudale" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lifee_with_shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifee_with_shree" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Shrikant_Kudale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrikant-kudale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
