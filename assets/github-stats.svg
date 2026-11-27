@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shrikant Subhash Kudale&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 3525, Total PRs: 5, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 3526, Total PRs: 5, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 206.96665084572842;
+        stroke-dashoffset: 206.96412949751024;
       }
     }
   
