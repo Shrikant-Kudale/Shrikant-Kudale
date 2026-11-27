@@ -145,37 +145,37 @@ A project I am looking for help with. Contributions are welcome!
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-24-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=16122E" alt="Total public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShrikant-Kudale&query=%24.public_repos&label=Total%20Repos&style=for-the-badge&logo=github&logoColor=white&labelColor=16122E&color=8B5CF6" alt="Total public repositories" />
 </p>
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Shrikant-Kudale&show_icons=true&include_all_commits=true&card_width=700&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&ring_color=8B5CF6&border_color=4B3D8F&border_radius=16" width="100%" alt="GitHub stats: stars, commits, pull requests and issues" />
+  <img src="assets/github-stats.svg" width="100%" alt="GitHub stats: stars, commits, pull requests and issues" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shrikant-Kudale&card_width=700&background=16122E&border=4B3D8F&border_radius=16&stroke=4B3D8F&ring=8B5CF6&fire=EC4899&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=F472B6&sideLabels=22D3EE&dates=BDB4E4" width="100%" alt="Total contributions, current streak and longest streak" />
+  <img src="assets/streak.svg" width="100%" alt="Total contributions, current streak and longest streak" />
 </p>
 
 ### 🌊 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrikant-Kudale&theme=tokyonight&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F&chart_color=8B5CF6" width="100%" alt="Contribution activity graph" />
+  <img src="assets/profile-details.svg" width="100%" alt="Contribution activity graph" />
 </p>
 
 ### ⏰ Commit Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrikant-Kudale&timeZone=Asia/Kolkata&theme=tokyonight&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F&chart_color=8B5CF6" width="70%" alt="Commits by hour of the day" />
+  <img src="assets/productive-time.svg" width="70%" alt="Commits by hour of the day" />
 </p>
 
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shrikant-Kudale&layout=compact&langs_count=8&card_width=700&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&border_color=4B3D8F&border_radius=16" width="100%" alt="Most used languages" />
+  <img src="assets/top-langs.svg" width="100%" alt="Most used languages" />
 </p>
 
 ---
