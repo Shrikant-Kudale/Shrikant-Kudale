@@ -1,0 +1,42 @@
+name: Update analytics cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch fresh cards
+        run: |
+          mkdir -p assets
+          T=$(date +%s)
+          U=Shrikant-Kudale
+          C="bg_color=16122E&title_color=F472B6&text_color=F5F3FF&icon_color=22D3EE&border_color=4B3D8F"
+
+          curl -fsSL "https://github-stats-extended.vercel.app/api?username=$U&show_icons=true&include_all_commits=true&card_width=700&$C&ring_color=8B5CF6&border_radius=16&t=$T" -o assets/github-stats.svg || true
+
+          curl -fsSL "https://streak-stats.demolab.com?user=$U&card_width=700&background=16122E&border=4B3D8F&border_radius=16&stroke=4B3D8F&ring=8B5CF6&fire=EC4899&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=F472B6&sideLabels=22D3EE&dates=BDB4E4&t=$T" -o assets/streak.svg || true
+
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=$U&theme=tokyonight&$C&chart_color=8B5CF6&t=$T" -o assets/profile-details.svg || true
+
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=$U&timeZone=Asia/Kolkata&theme=tokyonight&$C&chart_color=8B5CF6&t=$T" -o assets/productive-time.svg || true
+
+          curl -fsSL "https://github-stats-extended.vercel.app/api/top-langs/?username=$U&layout=compact&langs_count=8&card_width=700&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&border_color=4B3D8F&border_radius=16&t=$T" -o assets/top-langs.svg || true
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --staged --quiet || git commit -m "Refresh analytics cards"
+          git push
