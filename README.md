@@ -17,6 +17,10 @@
   <a href="mailto:shrikant.kudale05@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="assets/gallery.svg" width="100%" alt="Rotating carousel of my photos, certificates and achievements" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -26,7 +30,7 @@
 - 🤝 I’m looking for help with **[Twin Trace](https://github.com/Shrikant-Kudale/Twin_Trace)**
 - 👨‍💻 All of my projects are available at **[shrikantkudale.is-a.dev](https://shrikantkudale.is-a.dev/)**
 - 📫 How to reach me **[shrikant.kudale05@gmail.com](mailto:shrikant.kudale05@gmail.com)**
-- 📄 **[Look at my resume](abc.com)**
+- 📄 **[Look at my resume](https://github.com/Shrikant-Kudale/Shrikant-Kudale/blob/main/resume/Shrikant_Kudale_AIA.3.pdf)**
 
 ### 🌱 Currently Diving Deep Into
 
