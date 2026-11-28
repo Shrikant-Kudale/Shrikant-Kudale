@@ -1,4 +1,4 @@
-name: Update analytics cards
+name: Update analytics cards and gallery
 
 on:
   schedule:
@@ -33,10 +33,20 @@ jobs:
 
           curl -fsSL "https://github-stats-extended.vercel.app/api/top-langs/?username=$U&layout=compact&langs_count=8&card_width=700&bg_color=16122E&title_color=F472B6&text_color=F5F3FF&border_color=4B3D8F&border_radius=16&t=$T" -o assets/top-langs.svg || true
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build photo carousel
+        run: |
+          pip install pillow
+          python scripts/build_gallery.py
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets
-          git diff --staged --quiet || git commit -m "Refresh analytics cards"
+          git diff --staged --quiet || git commit -m "Refresh analytics cards and gallery"
+          git pull --rebase
           git push
